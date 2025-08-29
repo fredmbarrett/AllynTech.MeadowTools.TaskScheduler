@@ -25,7 +25,7 @@ It provides a lightweight, high-performance scheduler optimized for constrained 
 Clone the repository and add the project to your solution:
 
 ```bash
-git clone https://github.com/allyntech/MeadowTools.TaskScheduler.git
+git clone https://github.com/fredmbarrett/AllynTech.MeadowTools.TaskScheduler.git
 ```
 
 Then reference the project in your `.csproj`:
@@ -69,7 +69,7 @@ We welcome contributions from the community! To get started:
 4. **Submit a pull request (PR)** with a clear description of your changes.  
 
 ### Reporting Issues
-If you find a bug or have a feature request, please open an [issue](https://github.com/allyntech/MeadowTools.TaskScheduler/issues).  
+If you find a bug or have a feature request, please open an [issue](https://github.com/fredmbarrett/AllynTech.MeadowTools.TaskScheduler/issues).  
 Be sure to include details about your environment and steps to reproduce.
 
 ---
